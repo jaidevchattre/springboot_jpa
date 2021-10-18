@@ -1,9 +1,9 @@
-package com.springboot_hibernate.demo.dao;
+package com.springboot_jpa.demo.dao;
 
 
 import java.util.List;
 
-import com.springboot_hibernate.demo.entity.Employee;
+import com.springboot_jpa.demo.entity.Employee;
 
 public interface EmployeeDAO {
 	public List<Employee> findAll();

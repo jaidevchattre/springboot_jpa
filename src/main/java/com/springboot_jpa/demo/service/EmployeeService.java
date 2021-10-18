@@ -1,8 +1,8 @@
-package com.springboot_hibernate.demo.service;
+package com.springboot_jpa.demo.service;
 
 import java.util.List;
 
-import com.springboot_hibernate.demo.entity.Employee;
+import com.springboot_jpa.demo.entity.Employee;
 
 public interface EmployeeService {
 

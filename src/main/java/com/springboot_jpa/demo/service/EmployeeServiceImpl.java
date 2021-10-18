@@ -1,4 +1,4 @@
-package com.springboot_hibernate.demo.service;
+package com.springboot_jpa.demo.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.springboot_hibernate.demo.dao.EmployeeDAO;
-import com.springboot_hibernate.demo.entity.Employee;
+import com.springboot_jpa.demo.dao.EmployeeDAO;
+import com.springboot_jpa.demo.entity.Employee;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {

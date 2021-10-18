@@ -1,13 +1,13 @@
-package com.springboot_hibernate.demo;
+package com.springboot_jpa.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootHibernateApplication {
+public class SpringbootJPAApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootHibernateApplication.class, args);
+		SpringApplication.run(SpringbootJPAApplication.class, args);
 	}
 
 }
