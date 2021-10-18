@@ -1,4 +1,4 @@
-package com.springboot_hibernate.demo.security;
+package com.springboot_jpa.demo.security;
 import java.util.Arrays;
 
 import org.springframework.context.annotation.Bean;
